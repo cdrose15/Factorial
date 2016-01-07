@@ -1,0 +1,6 @@
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\bin\Factorial.dll.config
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\bin\Factorial.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\bin\Factorial.pdb
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\obj\Debug\Factorial.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Factorial\Factorial\obj\Debug\Factorial.pdb
